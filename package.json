@@ -5,7 +5,8 @@
     "bull": "^3.18.1",
     "bull-arena": "^3.4.0",
     "koa": "2.13.0",
-    "koa-express": "^1.1.0"
+    "koa-express": "^1.1.0",
+    "moment": "^2.29.1"
   },
   "devDependencies": {
     "@babel/cli": "7.12.1",
