@@ -10,13 +10,11 @@ yarn start
 ```
 
 Access Arena
-
 ```
 http://localhost:5566/
 ```
 
 Trigger a Send Message job
-
 ```
 yarn send-message
 ```
